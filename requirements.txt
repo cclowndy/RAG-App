@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langchain
+openai
+pymilvus
+psycopg2-binary
+pydantic
+python-dotenv
